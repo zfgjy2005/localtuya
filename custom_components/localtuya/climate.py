@@ -109,10 +109,6 @@ PRESET_SETS = {
         PRESET_HOME: "Program",
         PRESET_NONE: "Manual",
     },
-    "Sun/Moon": {
-        PRESET_SUN: "sun",
-        PRESET_MOON: "moon",
-    },
 }
 
 TEMPERATURE_CELSIUS = "celsius"
